@@ -1,0 +1,46 @@
+{
+    "name": "angle/common/utilities",
+    "description": "Common utilities and snippets",
+    "type": "git",
+    "keywords": [
+        "angle",
+        "common",
+	    "utilities"
+    ],
+    "homepage": "https://github.com/Angle/AngleCommonUtilities",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edmundo Fuentes",
+            "email": "me@edmundofuentes.com",
+            "homepage": "http://www.edmundofuentes.com",
+            "role": "creator,manager,architect,developer"
+        },
+        {
+            "name": "Alejandro Hernández Guerrero",
+            "email": "me@alexhdz.com",
+            "homepage": "http://www.alexhdz.com",
+            "role": "creator,manager,architect,developer"
+        },
+        {
+            "name": "Angle Consulting",
+            "email": "email@angle.mx",
+            "homepage": "http://www.angle.mx",
+            "role": "owner"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "ext-mcrypt": "*"
+    },
+    "suggest": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Angle\\Common\\Utilities": ""
+        }
+    },
+    "target-dir": "Angle/Common/Utilities"
+}
