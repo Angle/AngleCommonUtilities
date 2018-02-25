@@ -31,7 +31,8 @@
     ],
     "require": {
         "php": ">=5.3",
-        "ext-mcrypt": "*"
+        "ext-mcrypt": "*",
+        "ext-bcmath": "*"
     },
     "suggest": {
     },
