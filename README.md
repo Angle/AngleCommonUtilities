@@ -8,3 +8,5 @@ Forked from Angle/AngleCommonUtilityBundle. Removed all the Symfony components a
 # Random
 
 # Slug
+
+# BCMath Extension functions
