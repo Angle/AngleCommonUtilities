@@ -39,9 +39,8 @@
     "require-dev": {
     },
     "autoload": {
-        "psr-0": {
-            "Angle\\Common\\Utilities": ""
+        "psr-4": {
+            "Angle\\Common\\Utilities\\": ""
         }
     },
-    "target-dir": "Angle/Common/Utilities"
 }
